@@ -1,0 +1,1 @@
+// Placeholder content for src/app/delivery-notes/[id]/sign.tsx
