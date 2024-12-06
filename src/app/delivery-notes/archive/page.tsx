@@ -1,1 +1,0 @@
-// Placeholder content for src/app/delivery-notes/archive/page.tsx

@@ -1,1 +1,0 @@
-// Placeholder content for src/context/AppContext.tsx
