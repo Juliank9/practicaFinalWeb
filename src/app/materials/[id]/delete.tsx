@@ -1,1 +1,0 @@
-// Placeholder content for src/app/materials/[id]/delete.tsx
